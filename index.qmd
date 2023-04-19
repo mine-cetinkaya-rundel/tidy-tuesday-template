@@ -1,10 +1,15 @@
 ---
 title: "Project title"
+author: "Your name"
 format: 
   html:
     toc: true
 editor: visual
 ---
+
+::: {.callout-note appearance="minimal" icon="false"}
+The code for this analysis can be found at ADD URL TO REPO.
+:::
 
 ## Data
 
