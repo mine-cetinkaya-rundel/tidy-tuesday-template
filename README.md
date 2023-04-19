@@ -23,4 +23,13 @@ Getting started with this template for your own TidyTuesday projects:
 
 <br>
 
-3. Once your repo is created, clone and get started as usual!
+3. Once your repo is created, clone the repo with RStudio > File > New Project.
+
+4. Add your TidyTuesday exploration to `index.qmd`, render and push all your files. (Note: Do not rename this file.)
+
+5. On GitHub, go to *Settings*, select *Pages* from the sidebar, and
+
+  - for Source, select Deploy from branch, and
+  - for Branch, select main and leave the rest as is.
+
+![Screenshot showing how to deploy pages from the main branch.](images/tt-pages.png "Set up GiutHub Pages")
