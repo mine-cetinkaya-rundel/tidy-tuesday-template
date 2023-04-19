@@ -33,3 +33,5 @@ Getting started with this template for your own TidyTuesday projects:
   - for Branch, select main and leave the rest as is.
 
 ![Screenshot showing how to deploy pages from the main branch.](images/tt-pages.png "Set up GiutHub Pages")
+
+6. Go back to the root of your repo, click the Gear icon next to About, and in the pop-up window check the box for *Use your GitHub Pages website* and add tags as suggested below.
