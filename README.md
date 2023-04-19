@@ -1,2 +1,5 @@
 # tidy-tuesday-template
-Template for TidyTuesday projects
+
+Getting started with this template for your own TidyTuesday projects:
+
+1. 
