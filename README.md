@@ -4,7 +4,11 @@ Getting started with this template for your own TidyTuesday projects:
 
 1. Click on Use this template (green button) and then Create a new repository.
 
-<img src="images/tt-use-template.png" height="auto" width="200" style="border: 3px solid red" alt="Screenshot showing how to use template to create a repo." title="Use template">
+<br>
+
+![Screenshot showing how to use template to create a repo.](images/tt-use-template.png "Use template")
+
+<br>
 
 2. In the next screen,
 
@@ -13,4 +17,10 @@ Getting started with this template for your own TidyTuesday projects:
   - select *Public* for your project setting, and
   - click on *Create repository from template*.
 
+<br>
+
 ![Screenshot showing how to create a new repo.](images/tt-create-repo.png "Create repo")
+
+<br>
+
+3. Once your repo is created, clone and get started as usual!
